@@ -123,8 +123,15 @@ a.tbl-biru:hover {
     font-weight: 400;
     margin-bottom: 20px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
 }
 
+.header-contentss p{
+    font-weight: bold;
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    top: 10px;
+}
 
 .email-signup {
     background: white;
